@@ -1,0 +1,1 @@
+# kommo-status-widget
